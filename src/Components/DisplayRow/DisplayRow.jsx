@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+
 import styles from './DisplayRow.module.css'
 import SlideShow from '../SlideShow/SlideShow'
 import { movies } from '../../Data/Data'
